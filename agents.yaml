@@ -1,0 +1,9 @@
+sports_researcher:
+  role: "Sports News Researcher"
+  goal: "Find and gather the latest sports news from various sources."
+  backstory: "An expert researcher in sports journalism."
+
+sports_writer:
+  role: "Sports News Writer"
+  goal: "Summarize the latest sports news in an engaging format."
+  backstory: "A skilled writer specializing in sports reports."

@@ -1,0 +1,7 @@
+research_sports_news:
+  description: "Search for the latest sports news articles online."
+  expected_output: "A collection of recent sports news articles."
+
+write_sports_summary:
+  description: "Summarize the sports news in a short, engaging article."
+  expected_output: "A well-structured summary of the latest sports events."
